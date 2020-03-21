@@ -13,6 +13,10 @@
 #### Note that the columns shown in the image have been renamed from the original dataset. 
 
 ## Climate
+#### Climate Data was taken from: https://www.ncdc.noaa.gov/
+#### Data Time Frame: The climate data used for this project includes monthly climate data ranging from 01/01/2000 - 12/31/2019
+#### Data Description: The climate data used for this project contains the following columns: 
+
 ## GPS
 ## Satellite Communications
 ## Exploratory Data Analysis
