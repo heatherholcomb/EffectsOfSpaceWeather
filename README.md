@@ -6,7 +6,9 @@
 #### Data Time Frame: The space weather data contains data ranging from 1957-2020
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SpaceWeatherTimeFrame.png" alt="Space Weather Time Frame" title="Space Weather Time Frame" />
 
-#### Data Description: 
+#### Data Description: The Space Weather data used contains the following Columns: 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SpaceWeatherColumns.png" alt="Space Weather Columns" title="Space Weather Columns" />
+
 ## Climate
 ## GPS
 ## Satellite Communications
