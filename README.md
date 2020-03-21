@@ -14,9 +14,11 @@
 
 ## Climate
 #### Climate Data was taken from: https://www.ncdc.noaa.gov/
-#### Data Time Frame: The climate data used for this project includes monthly climate data ranging from 01/01/2000 - 12/31/2019
-#### Data Description: The climate data used for this project contains the following columns: 
+#### Data Description: The climate data used for this project includes monthly climate data ranging from 01/01/2000 - 12/31/2019 and contains weather data from 5 different weather stations including London Corbin Airport, KY; Jerome CO Airport, ID; Salina Municipal Airport, KS; Greenville Main Forestry Service, ME; Annapolis NAF, MD
+#### The climate data used for this project contains the following columns: 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/ClimateColumns.png" alt="Climate Columns" title="Climate Columns" />
 
+#### Note that the columns above still need to be identified and cleaned to make sense. 
 ## GPS
 ## Satellite Communications
 ## Exploratory Data Analysis
