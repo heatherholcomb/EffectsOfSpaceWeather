@@ -24,6 +24,8 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/ClimateColumns.png" alt="Climate Columns" title="Climate Columns" />
 
 #### Note that the columns above still need to be identified and cleaned to make sense. 
+
+## Final Climate and Space Weather Data
 ## GPS
 ## Satellite Communications
 ## Exploratory Data Analysis
