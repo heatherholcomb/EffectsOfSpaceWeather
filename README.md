@@ -27,6 +27,9 @@
 #### Note that the columns above still need to be identified and cleaned to make sense. 
 
 ## Final Climate and Space Weather Data
+#### The Space Weather Data is a subset of the original data as shown below: 
+#### The Climate Data is a subset of the original data as show below: 
+#### Both the Space Weather Data and the Climate data were indexed by Year and Month and then merged as shown below: 
 ## GPS
 ## Satellite Communications
 ## Exploratory Data Analysis
