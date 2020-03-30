@@ -29,6 +29,7 @@
 ## Final Climate and Space Weather Data
 #### The Space Weather Data is a subset of the original data as shown below:
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SpaceWeatherSubset.png" alt="Subset of Space Weather" title="Subset of Space Weather" />
+
 #### The Climate Data is a subset of the original data as show below: 
 #### Both the Space Weather Data and the Climate data were indexed by Year and Month and then merged as shown below: 
 ## GPS
