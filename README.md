@@ -34,9 +34,27 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/ClimateSubset.png" alt="Subset of Climate Data" title="Subset of Climate Data" />
 
 #### Both the Space Weather Data and the Climate data were indexed by Year and Month and then merged as shown below: 
-## GPS
-## Satellite Communications
-## Exploratory Data Analysis
-## Model Building
-## Analysis
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/MergedSpaceClimateData.png" alt="Merged Data" title="Merged Data" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/MergedDataGraph.png" alt="Merged Data" title="Merged Data" />
+
+## Regression Models
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SimpleLinearRegressionWindKp.png" alt="How does Kp Index affect wind" title="How does Kp index affect wind" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SimpleLinearRegressionTempKp.png" alt="How does Kp Index affect temperature" title="How does Kp index affect temperature" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/MultipleLinearRegression.png" alt="Multiple Regression" title="Multiple Regression" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/MultipleLinearRegression2.png" alt="Multiple Regression" title="Multiple Regression" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/MultipleLinearRegression3.png" alt="Multiple Regression" title="Multiple Regression" />
+
+## Clustering 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/KMeans.png" alt="KMeans Clustering" title="KMeans Clustering" />
+
+## Time Series
+
+## Space Weather Predictions
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SpaceWeatherPred.png" alt="Space Weather Prediction" title="Space Weather Prediction" />
+
 ## References: 
