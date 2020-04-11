@@ -7,8 +7,9 @@
 #### Data Time Frame: The space weather data contains data ranging from 1957-2020
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SpaceWeatherTimeFrame.png" alt="Space Weather Time Frame" title="Space Weather Time Frame" />
 
-#### Data Description: The Space Weather data used contains the following Columns: 
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/Images/blob/master/SpaceWeatherColumns.png" alt="Space Weather Columns" title="Space Weather Columns" />
+#### Data Description: The Space Weather data used contains the following Columns:
+Images/ClimateColumns.png
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/Images/SpaceWeatherColumns.png" alt="Space Weather Columns" title="Space Weather Columns" />
 
 #### A description of these data fields can be found here: https://celestrak.com/SpaceData/SpaceWx-format.php
 #### Note that the columns shown in the image have been renamed from the original dataset. 
