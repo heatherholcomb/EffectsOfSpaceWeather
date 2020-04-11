@@ -1,10 +1,6 @@
 # EffectsOfSpaceWeather
 ## High Level Description
-#### Space Weather describes the variations in the space environment between the sun and earth. In particular, Space Weather describes the phenomena that impact systems and technologies in orbit and on Earth. Space Weather can occur anywhere from the surface of the sun to the surface of the earth. I will also be doing a prediction model to see if we can predict Space Weather.  
-## Space Weather Data
-
-## Climate
-
+##### Space Weather describes the variations in the space environment between the sun and earth. In particular, Space Weather describes the phenomena that impact systems and technologies in orbit and on Earth. Space Weather can occur anywhere from the surface of the sun to the surface of the earth. I will also be doing a prediction model to see if we can predict Space Weather.  
 
 ### Average Wind Speed from Merged Data
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MergedDataGraph.png" alt="Merged Data" title="Merged Data" />
