@@ -34,3 +34,6 @@
 
 #### Both the Space Weather Data and the Climate data were indexed by Year and Month and then merged as shown below: 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MergedSpaceClimateData.png" alt="Merged Data" title="Merged Data" />
+
+### Average Wind Speed from Merged Data
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MergedDataGraph.png" alt="Merged Data" title="Merged Data" />
