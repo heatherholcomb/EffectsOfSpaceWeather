@@ -51,4 +51,5 @@
 ## References: 
 ###### https://www.swpc.noaa.gov/
 ###### https://celestrak.com/
-######  https://www.ncdc.noaa.gov/
+###### https://www.ncdc.noaa.gov/
+###### https://www.spacewx.com/Definitions.html#F10
