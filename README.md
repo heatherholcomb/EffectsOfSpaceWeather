@@ -8,9 +8,6 @@
 ###### - How does the F10.7 index effect climate? 
 ###### - Can I predict space weather using historical data? 
 
-### Average Wind Speed from Merged Data
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MergedDataGraph.png" alt="Merged Data" title="Merged Data" />
-
 ## Regression Models
 #### Simple Linear Regression model - How does the Kp index affect Wind? 
 
