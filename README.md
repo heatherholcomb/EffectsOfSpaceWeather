@@ -8,7 +8,6 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/SpaceWeatherTimeFrame.png" alt="Space Weather Time Frame" title="Space Weather Time Frame" />
 
 #### Data Description: The Space Weather data used contains the following Columns:
-Images/ClimateColumns.png
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/Images/SpaceWeatherColumns.png" alt="Space Weather Columns" title="Space Weather Columns" />
 
 #### A description of these data fields can be found here: https://celestrak.com/SpaceData/SpaceWx-format.php
