@@ -8,6 +8,14 @@
 ###### - How does the F10.7 index effect climate? 
 ###### - Can I predict space weather using historical data? 
 
+## Solar Irradiance
+
+## Kp Index 
+
+## F10.7
+
+## Space Weather Prediction
+
 ## Regression Models
 #### Simple Linear Regression model - How does the Kp index affect Wind? 
 
