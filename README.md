@@ -11,18 +11,23 @@
 ## Solar Irradiance
 
 ## Kp Index 
-
-## F10.7
-
-## Space Weather Prediction
-
-## Regression Models
 #### Simple Linear Regression model - How does the Kp index affect Wind? 
 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SimpleLinearRegressionWindKp.png" alt="How does Kp Index affect wind" title="How does Kp index affect wind" />
 
 #### Simple Linear Regression - How does Kp index affect Temperature? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SimpleLinearRegressionTempKp.png" alt="How does Kp Index affect temperature" title="How does Kp index affect temperature" />
+
+
+
+## F10.7
+
+## Space Weather Prediction
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SpaceWeatherPred.png" alt="Space Weather Prediction" title="Space Weather Prediction" />
+
+
+
 
 #### Multiple Linear Regression Model - How does the Kp Index, Solar Radio Flux, Flux Qualifier and F10_7 values affect Average Wind Speed? 
 
@@ -41,7 +46,7 @@
 ## Time Series
 
 ## Space Weather Predictions
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SpaceWeatherPred.png" alt="Space Weather Prediction" title="Space Weather Prediction" />
+
 
 ## References: 
 ###### https://www.swpc.noaa.gov/
