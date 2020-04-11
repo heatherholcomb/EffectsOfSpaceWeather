@@ -5,7 +5,8 @@
 ##### The questions i would like to answer with this project include: 
 ###### - What effects do solar irradiance have on climate? 
 ###### - How does the Kp Index, or geomagnetic activity effect climate? 
-###### - 
+###### - How does the F10.7 index effect climate? 
+###### - Can I predict space weather using historical data? 
 
 ### Average Wind Speed from Merged Data
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MergedDataGraph.png" alt="Merged Data" title="Merged Data" />
