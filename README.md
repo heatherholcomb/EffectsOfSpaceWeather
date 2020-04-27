@@ -34,30 +34,42 @@
 
 ## ISN - International Sunspot Number
 
-## Space Weather Predictions
+## Space Weather Predictions 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SpaceWeatherPred.png" alt="Space Weather Prediction" title="Space Weather Prediction" />
 
+#### fbprophet forecast model of F10.7 index. It seems that the forecast values line up with the actual values which is why i decided to take a further look at predictions the F10.7 index.
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107Predictions.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### fbprophet forecast model for Sum Of Kp index. This graph doesnt tell me much. There are so many different values for the Sum Of Kps and there doesnt seemt to be much of a trend but i decided to take a further look at predicting these values to see if it is possible. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpPredictions.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
+#### Mean Resample of F10.7 Time series graph. This shows me that there might be some sort of trend over time. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107TimeSeries1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### Time series decomposition for F10.7. There seems to be a trend but loooking at the seasonality of the data, it does not look stationary. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107TimeSeries2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### Autocorrelation plot for F10.7. If i'm interpreting this plot correctly, F10.7 is positively correlated up to k=30 and negatively correlated from ~46 on. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107AutoCorrelation.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### Partial autocorrelation plot. F10.7 has significat partial autocorrelation at 2,4,11,12,13,23,26,27. I'm not seeing any pattern in the periods. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107PartialAutoCorrelation.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
-
+### SARIMAX Model
+#### Results Summary
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### SARIMAX Residuals
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
+#### SARIMAX Model predictions for F10.7. The one step ahead forecast seems to match up nicely with the observed values showing me that this might be a good model to predict F10.7. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107Predictions2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### Mean Squared Error
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107MSE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+#### Root Mean Squared Error
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107RMSE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
-
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107Predictions3.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
 ## References: 
 ###### https://www.swpc.noaa.gov/
