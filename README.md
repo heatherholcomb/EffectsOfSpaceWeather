@@ -46,8 +46,10 @@
 #### Mean Resample of F10.7 Time series graph. This shows me that there might be some sort of trend over time. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107TimeSeries1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-#### Time series decomposition for F10.7. There seems to be a trend but loooking at the seasonality of the data, it does not look stationary. 
+#### Time series decomposition for F10.7 and Augmented Dickey Fuller test. There seems to be a trend in the data and the data appears to be stationary. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107TimeSeries2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107_ADF.png" alt="F10.7 ADF Test" title="F10.7 ADF Test" />
 
 #### Autocorrelation plot for F10.7. If i'm interpreting this plot correctly, F10.7 is positively correlated up to k=30 and negatively correlated from ~46 on. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107AutoCorrelation.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
