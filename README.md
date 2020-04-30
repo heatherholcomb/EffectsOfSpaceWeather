@@ -95,9 +95,41 @@
 
 ### F10.7 Model Comparison
 
-### SumOfKps Prediction 
+### SumOfKps Prediction
+#### Mean Resample of Sum Of Kps Time series graph. This shows me that there might be some sort of trend over time. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPTimeSeries.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### Time series decomposition for Kp and Augmented Dickey Fuller test. There seems to be a trend in the data and the data appears to be stationary. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPDecomposition.png" alt="Kp Predictions" title="Kp Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPADF.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### Autocorrelation plot for Kp. If i'm interpreting this plot correctly, Kp is positively correlated. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPAutoCorrelation.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### Partial autocorrelation plot. Kp has significat partial autocorrelation at 1,2,4,5,6,10,11,12. I'm not seeing any pattern in the periods. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPPartialAutoCorrelatino.png" alt="Kp Predictions" title="Kp Predictions" />
 
 ### SumOfKps ARIMA Model 
+#### Based on the Auto Correlation and Partial Auto Correlation plots, i played around with the order for my ARIMA Model and found AR = 6, Differencing Order = 0 and Moving Average = 2 was the best fit for this model. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPARIMAModelCode.png" alt="Kp Predictions" title="Kp Predictions" />
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPARIMAModelGraph.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### Plotting the predictions, this model seems to predict well for a short period of time 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPARIMAModelGraph1.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### Next i'll show the Kp ARIMA model results and plot the residuals to ensure that we have constant mean and variance
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPARIMAModelResults.png" alt="Kp Predictions" title="Kp Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPARIMAModelResiduals.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### The residual errors have a near zero mean and uniform variance 
+
+#### Lastly we will look at Mean Absolute Percentage Error and Root Mean Square Error to see how accurate this model is
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPARIMAModelErrors.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### A MAPE value of 13.25 means that the model is about 86.75% accurate in predicting the next 15 observations. 
+#### An RMSE tells me that the model was able to forecast SumOfKps within 27.811. 
 
 ### SumOfKps SARIMAX Model 
 
