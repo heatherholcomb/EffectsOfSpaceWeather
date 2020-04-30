@@ -41,6 +41,8 @@
 #### fbprophet forecast model for Sum Of Kp index. This graph doesnt tell me much. There are so many different values for the Sum Of Kps and there doesnt seem to be much of a trend but i decided to take a further look at predicting these values to see if it is possible. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpPredictions.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+### F10.7 Prediction
+
 #### Mean Resample of F10.7 Time series graph. This shows me that there might be some sort of trend over time. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107TimeSeries1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
@@ -90,6 +92,16 @@
 
 #### Root Mean Squared Error
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107RMSE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
+### F10.7 Model Comparison
+
+### SumOfKps Prediction 
+
+### SumOfKps ARIMA Model 
+
+### SumOfKps SARIMAX Model 
+
+### SumOfKps Model Comparison 
 
 ## References: 
 ###### https://www.swpc.noaa.gov/
