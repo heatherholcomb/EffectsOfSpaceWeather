@@ -77,21 +77,24 @@
 #### An MAPE value of 7.24% means that the model is about 92.76% accurate in predicting the next 15 observations. 
 #### An RMSE value of 14.59 tells me that the model was able to forecast the F10.7 value within 14.59. 
 
-### SARIMAX Model
-#### Results Summary
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+### F10.7 SARIMAX Model
+#### Based on the partial auto correlation plot, i used the same values for this model as i did in the ARIMA model. AR = 4, Differencing order = 0 and Moving Average = 2
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-#### SARIMAX Residuals
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+#### Prediction Plot - Based on the prediction plot below, the forecast values seem to follow the pattern of the data. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModelPredictionGraph.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-#### SARIMAX Model predictions for F10.7. The one step ahead forecast seems to match up nicely with the observed values showing me that this might be a good model to predict F10.7. 
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107Predictions2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+#### Next i'm going to show the results from the SARIMAX model and plot the residuals to ensure that we have constant mean and variance 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModelResults.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModelResiduals.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-#### Mean Squared Error
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107MSE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+#### The residuals grpah shows a near zero mean and uniform variance 
+#### Finally, we will look at Mean Absolute Percentage Error and Root Mean Square Error to see how accurate this model is
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModelMAPE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModelRMSE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-#### Root Mean Squared Error
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107RMSE.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+#### A MAPE value of 10% means that the model is about 90% accurate in predicting the next 15 observations. 
+#### An RMSE value of24.13 tells me that the model was able to forecast the F10.7 values within 24.13. 
 
 ### F10.7 Model Comparison
 
