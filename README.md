@@ -96,8 +96,6 @@
 #### A MAPE value of 10% means that the model is about 90% accurate in predicting the next 15 observations. 
 #### An RMSE value of24.13 tells me that the model was able to forecast the F10.7 values within 24.13. 
 
-### F10.7 Model Comparison
-
 ### SumOfKps Prediction
 #### Mean Resample of Sum Of Kps Time series graph. This shows me that there might be some sort of trend over time. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KPTimeSeries.png" alt="Kp Predictions" title="Kp Predictions" />
@@ -153,7 +151,11 @@
 #### The MAPE Value of 16.51% means that the model is about 83.49% accurate at predicting the next 15 observations.
 #### The RMSE tells me that my model was able to forecast the Kp Index within 40.39 of the real values. 
 
-### SumOfKps Model Comparison 
+### Model Comparison 
+#### Looking at the error comparisons below, it shows that the ARIMA model has a lower MAPE and a lower RMSE which means it performed better than the SARIMAX model in both instances. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MAPE_Comparison.png" alt="MAPE Comparison" title="MAPE Comparison" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/RMSE_Comparison.png" alt="RMSE Comparison" title="RMSE Comparison" />
 
 ## References: 
 ###### https://www.swpc.noaa.gov/
