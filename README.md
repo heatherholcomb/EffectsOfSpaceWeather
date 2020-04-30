@@ -55,6 +55,12 @@
 #### Partial autocorrelation plot. F10.7 has significat partial autocorrelation at 2,4,11,12,13,23,26,27. I'm not seeing any pattern in the periods. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107PartialAutoCorrelation.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
+### ARIMA Model
+#### Based on the Auto Correlation and Partial Auto Correlation plots, i played around with the order for my ARIMA Model and found AR = 4, Differencing Order = 0 and Moving Average = 2 was the best fit for this model. 
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelCode.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelGraph1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
+
 ### SARIMAX Model
 #### Results Summary
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107SARIMAXModel2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
