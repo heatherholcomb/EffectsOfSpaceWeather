@@ -135,6 +135,12 @@
 #### An RMSE tells me that the model was able to forecast SumOfKps within 27.811. 
 
 ### SumOfKps SARIMAX Model 
+#### Model
+#### Prediction Plot 
+#### Results
+#### Residuals
+#### MAPE 
+#### RMSE
 
 ### SumOfKps Model Comparison 
 
