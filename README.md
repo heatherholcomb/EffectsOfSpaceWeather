@@ -38,7 +38,7 @@
 #### fbprophet forecast model of F10.7 index. It seems that the forecast values line up with the actual values which is why i decided to take a further look at predictions the F10.7 index.
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107Predictions.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-#### fbprophet forecast model for Sum Of Kp index. This graph doesnt tell me much. There are so many different values for the Sum Of Kps and there doesnt seemt to be much of a trend but i decided to take a further look at predicting these values to see if it is possible. 
+#### fbprophet forecast model for Sum Of Kp index. This graph doesnt tell me much. There are so many different values for the Sum Of Kps and there doesnt seem to be much of a trend but i decided to take a further look at predicting these values to see if it is possible. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpPredictions.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
 #### Mean Resample of F10.7 Time series graph. This shows me that there might be some sort of trend over time. 
@@ -58,12 +58,16 @@
 ### ARIMA Model
 #### Based on the Auto Correlation and Partial Auto Correlation plots, i played around with the order for my ARIMA Model and found AR = 4, Differencing Order = 0 and Moving Average = 2 was the best fit for this model. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelCode.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelGraph1.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
 #### As you can see from the graph below, predicting out to ~2040, the forecast seems to follow the pattern of the data. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelGraph2.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
 #### Next i'm going to show the results from the ARIMA model and plot the residuals to ensure that we have constant mean and variance
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelResults.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelGraph3.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
 #### The Residual graph shows a near zero mean and uniform variance. 
 #### Finally we will look at Mean Absolute Percentage Error and Root Mean Square Error to see how accurate this model is 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelStats.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
