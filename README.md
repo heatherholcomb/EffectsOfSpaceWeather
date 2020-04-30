@@ -35,8 +35,6 @@
 ## ISN - International Sunspot Number
 
 ## Space Weather Predictions 
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SpaceWeatherPred.png" alt="Space Weather Prediction" title="Space Weather Prediction" />
-
 #### fbprophet forecast model of F10.7 index. It seems that the forecast values line up with the actual values which is why i decided to take a further look at predictions the F10.7 index.
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107Predictions.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
