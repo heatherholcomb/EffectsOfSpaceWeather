@@ -135,15 +135,23 @@
 #### An RMSE tells me that the model was able to forecast SumOfKps within 27.811. 
 
 ### SumOfKps SARIMAX Model 
+#### Based on the partial auto correlation plot, i used the same values for this model as i did the ARIMA model. AR = , Differencing Order = , Moving Average = 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARModel.png" alt="Kp Predictions" title="Kp Predictions" />
 
+#### This prediction plot doesnt seem to accurately predict the values but does seem to follow the pattern of the data. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARPredictionPlot.png" alt="Kp Predictions" title="Kp Predictions" />
 
+#### Next i will show the Kp SARIMAX model results and plot the residuals to ensure that we have constant mean and variance. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARResults.png" alt="Kp Predictions" title="Kp Predictions" />
 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARResiduals.png" alt="Kp Predictions" title="Kp Predictions" />
 
+#### The residual errors have a near zero mean and uniform variance
+#### Finally we will look at Mean Absolute Percentage Error and Root Mean Square Error to see how accurate this model is
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARErrors.png" alt="Kp Predictions" title="Kp Predictions" />
+
+#### The MAPE Value of 16.51% means that the model is about 83.49% accurate at predicting the next 15 observations.
+#### The RMSE tells me that my model was able to forecast the Kp Index within 40.39 of the real values. 
 
 ### SumOfKps Model Comparison 
 
