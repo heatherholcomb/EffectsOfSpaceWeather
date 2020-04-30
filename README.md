@@ -135,12 +135,15 @@
 #### An RMSE tells me that the model was able to forecast SumOfKps within 27.811. 
 
 ### SumOfKps SARIMAX Model 
-#### Model
-#### Prediction Plot 
-#### Results
-#### Residuals
-#### MAPE 
-#### RMSE
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARModel.png" alt="Kp Predictions" title="Kp Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARPredictionPlot.png" alt="Kp Predictions" title="Kp Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARResults.png" alt="Kp Predictions" title="Kp Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARResiduals.png" alt="Kp Predictions" title="Kp Predictions" />
+
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/KpSARErrors.png" alt="Kp Predictions" title="Kp Predictions" />
 
 ### SumOfKps Model Comparison 
 
