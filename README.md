@@ -55,7 +55,7 @@
 #### Partial autocorrelation plot. F10.7 has significat partial autocorrelation at 2,4,11,12,13,23,26,27. I'm not seeing any pattern in the periods. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107PartialAutoCorrelation.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
-### ARIMA Model
+### F10.7 ARIMA Model
 #### Based on the Auto Correlation and Partial Auto Correlation plots, i played around with the order for my ARIMA Model and found AR = 4, Differencing Order = 0 and Moving Average = 2 was the best fit for this model. 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelCode.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
 
@@ -71,8 +71,9 @@
 #### The Residual graph shows a near zero mean and uniform variance. 
 #### Finally we will look at Mean Absolute Percentage Error and Root Mean Square Error to see how accurate this model is 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/F107ARIMAModelStats.png" alt="F10.7 Predictions" title="F10.7 Predictions" />
+
 #### An MAPE value of 7.24% means that the model is about 92.76% accurate in predicting the next 15 observations. 
-#### An RMSE value of 14.59 tells me that the model was able to forecast the F1.7 value within 14.59. 
+#### An RMSE value of 14.59 tells me that the model was able to forecast the F10.7 value within 14.59. 
 
 ### SARIMAX Model
 #### Results Summary
