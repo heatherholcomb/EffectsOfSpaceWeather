@@ -153,9 +153,9 @@
 
 ### Model Comparison 
 #### Looking at the error comparisons below, it shows that the ARIMA model has a lower MAPE and a lower RMSE which means it performed better than the SARIMAX model in both instances. 
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MAPE_Comparison.png" alt="MAPE Comparison" title="MAPE Comparison" />
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MAPEComparison.png" alt="MAPE Comparison" title="MAPE Comparison" />
 
-<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/RMSE_Comparison.png" alt="RMSE Comparison" title="RMSE Comparison" />
+<img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/RMSEComparison.png" alt="RMSE Comparison" title="RMSE Comparison" />
 
 ## References: 
 ###### https://www.swpc.noaa.gov/
