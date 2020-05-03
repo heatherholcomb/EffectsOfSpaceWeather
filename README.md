@@ -3,11 +3,11 @@
 ##### Space Weather describes the variations in the space environment between the sun and earth. In particular, Space Weather describes the phenomena that impact systems and technologies in orbit and on Earth. Space Weather can occur anywhere from the surface of the sun to the surface of the earth. 
 ##### Different aspects of space weather can affect multiple systems here on earth such as GPS, Climate, Radio and Satellite Communication. Solar flares can affect radio waves, solar energetic particles can cause electrical failure in satellites and block radio communications, geomagnetic storms can modify systems from GPS, when cosmic rays are high it can create nucleation in the atmosphere and produce more cloudy conditions and solar irradiance can have an affect on climate as well. 
 ##### The questions i would like to answer with this project include:  
-###### - How does the Kp Index, or geomagnetic activity effect climate? 
-###### - How does the F10.7 index effect climate? 
-###### - How does Ap - Planetary Equivalent Amplitude effect climate? 
-###### - How does Cp - Planetary Daily Character Figure effect climate? 
-###### - How does ISN - International Sunspot Number effect climate? 
+###### - How does the Kp Index, or geomagnetic activity affect climate? 
+###### - How does the F10.7 index affect climate? 
+###### - How does Ap - Planetary Equivalent Amplitude affect climate? 
+###### - How does Cp - Planetary Daily Character Figure affect climate? 
+###### - How does ISN - International Sunspot Number affect climate? 
 ###### - Can I predict space weather using historical data? 
 
 ## Kp Index 
@@ -367,6 +367,14 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/MAPEComparison.png" alt="MAPE Comparison" title="MAPE Comparison" />
 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/RMSEComparison.png" alt="RMSE Comparison" title="RMSE Comparison" />
+
+# Conclusions 
+#### 1. How does the Kp Index affect climate? 
+#### 2. How does the F10.7 index affect climate? 
+#### 3. How does Ap - Planetary Equivalent Amplitude affect climate? 
+#### 4. How does Cp - Planetary Daily Character Figure affect climate? 
+#### 5. How does ISN - International Sunspot Number affect climate? 
+#### 6. Can i predict space weather using historical data? 
 
 ## References: 
 ###### https://www.swpc.noaa.gov/
