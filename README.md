@@ -18,13 +18,25 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SimpleLinearRegressionTempKp.png" alt="How does Kp Index affect temperature" title="How does Kp index affect temperature" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Kp_Temp.png" alt="How does Kp Index affect temperature" title="How does Kp index affect temperature" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between the Kp Index and Average Temperature
+#### H1: There is a Linear relationship between the Kp Index and Average Temperature
+
 #### Simple Linear Regression model - How does the Kp index affect Wind Speed? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/SimpleLinearRegressionWindKp.png" alt="How does Kp Index affect wind" title="How does Kp index affect wind" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Kp_Wind.png" alt="How does Kp Index affect wind" title="How does Kp index affect wind" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between the Kp Index and Average Wind Speed
+#### H1: There is a Linear relationship between the Kp Index and Average Wind Speed
+
 #### Simple Linear Regression Model - How does the Kp index affect Precipitation? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Kp_Precip.png" alt="How does Kp Index affect precipitation" title="How does Kp index affect precipitation" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Kp_Precip.png" alt="How does Kp Index affect precipitation" title="How does Kp index affect precipitation" />
+
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between the Kp Index and Precipitation
+#### H1: There is a Linear relationship between the Kp Index and Precipitation
 
 ## F10.7
 ### Description of F10.7: 
@@ -34,13 +46,25 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_F107_Temp.png" alt="How does F10.7 affect temperature" title="How does F10.7 affect temperature" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_F107_Temp.png" alt="How does F10.7 affect temperature" title="How does F10.7 affect temperature" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between F10.7 and Average Temperature
+#### H1: There is a Linear relationship between F10.7 and Average Temperature
+
 #### Simple Linear Regression model - How does F10.7 affect Wind Speed? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_F107_Wind.png" alt="How does F10.7 affect wind" title="How does F10.7 affect wind" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_F107_Wind.png" alt="How does F10.7 affect wind" title="How does F10.7 affect wind" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between F10.7 and Average Wind Speed
+#### H1: There is a Linear relationship between F10.7 and Average Wind Speed
+
 #### Simple Linear Regression model - How does F10.7 affect Precipitation?
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_F107_Precip.png" alt="How does F10.7 affect precipitation" title="How does F10.7 affect precipitation" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_F107_Precip.png" alt="How does F10.7 affect precipitation" title="How does F10.7 affect precipitation" />
+
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between F10.7 and Precipitation
+#### H1: There is a Linear relationship between F10.7 and Precipitation
 
 ## Ap 
 ### Description of Ap Index 
@@ -50,13 +74,25 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Ap_Temp.png" alt="How does Ap affect temperature" title="How does Ap affect temperature" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Ap_Temp.png" alt="How does Ap affect temperature" title="How does Ap affect temperature" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between Ap Index and Average Temperature
+#### H1: There is a Linear relationship between Ap Index and Average Temperature
+
 #### Simple Linear Regression model - How does the Ap index affect Wind Speed? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Ap_Wind.png" alt="How does Ap affect wind" title="How does Ap affect wind" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Ap_Wind.png" alt="How does Ap affect wind" title="How does Ap affect wind" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between Ap Index and Average Wind Speed
+#### H1: There is a Linear relationship between Ap Index and Average Wind Speed
+
 #### Simple Linear Regression model - How does the Ap index affect Precipitation?
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Ap_Precip.png" alt="How does Ap affect precipitation" title="How does Ap affect precipitation" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Ap_Precip.png" alt="How does Ap affect precipitation" title="How does Ap affect precipitation" />
+
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between Ap Index and Precipitation
+#### H1: There is a Linear relationship between Ap Index and Precipitation
 
 ## Cp
 ### Description of Cp Index 
@@ -66,13 +102,25 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Cp_Temp.png" alt="How does Cp affect temperature" title="How does Cp affect temperature" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Cp_Temp.png" alt="How does Cp affect temperature" title="How does Cp affect temperature" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between Cp Index and Average Temperature
+#### H1: There is a Linear relationship between Cp Index and Average Temperature
+
 #### Simple Linear Regression model - How does the Cp index affect Wind Speed? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Cp_Wind.png" alt="How does Cp affect wind" title="How does Cp affect wind" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Cp_Wind.png" alt="How does Cp affect wind" title="How does Cp affect wind" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between Cp Index and Average Wind Speed
+#### H1: There is a Linear relationship between Cp Index and Average Wind Speed
+
 #### Simple Linear Regression model - How does the Cp index affect Precipitation? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Cp_Precip.png" alt="How does Cp affect precipitation" title="How does Cp affect precipitation" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_Cp_Precip.png" alt="How does Cp affect precipitation" title="How does Cp affect precipitation" />
+
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between Cp Index and Precipitation
+#### H1: There is a Linear relationship between Cp Index and Precipitation
 
 
 ## ISN - International Sunspot Number
@@ -83,14 +131,25 @@
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_ISN_Temp.png" alt="How does ISN affect temperature" title="How does ISN affect temperature" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_ISN_Temp.png" alt="How does ISN affect temperature" title="How does ISN affect temperature" />
 
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between ISN Index and Average Temperature
+#### H1: There is a Linear relationship between ISN Index and Average Temperature
+
 
 #### Simple Linear Regression model - How does ISN affect Wind Speed? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_ISN_Wind.png" alt="How does ISN affect wind" title="How does ISN affect wind" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_ISN_Wind.png" alt="How does ISN affect wind" title="How does ISN affect wind" />
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between ISN Index and Average Wind Speed
+#### H1: There is a Linear relationship between ISN Index and Average Wind Speed
 
 #### Simple Linear Regression model - How does ISN affect Precipitation?
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_ISN_Precip.png" alt="How does ISN affect precipitation" title="How does ISN affect precipitation" />
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearModelPlot_ISN_Precip.png" alt="How does ISN affect precipitation" title="How does ISN affect precipitation" />
+
+#### Looking at the plot above, there seems to be no linear relationship between the two variables. So our null and alternative hypothesis are as follows: 
+#### H0: There is no Linear relationship between ISN Index and Precipitation
+#### H1: There is a Linear relationship between ISN Index and Precipitation
 
 ## Space Weather Predictions 
 #### fbprophet forecast model of F10.7 index. It seems that the forecast values line up with the actual values which is why i decided to take a further look at predictions the F10.7 index.
