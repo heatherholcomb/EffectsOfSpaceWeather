@@ -33,7 +33,7 @@
 #### H0: There is no Linear relationship between the Kp Index and Average Wind Speed
 #### H1: There is a Linear relationship between the Kp Index and Average Wind Speed
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Kp_Wind.png" alt="How does Kp Index affect wind" title="How does Kp index affect wind" />
 
 #### Simple Linear Regression Model - How does the Kp index affect Precipitation? 
@@ -44,7 +44,7 @@
 #### H0: There is no Linear relationship between the Kp Index and Precipitation
 #### H1: There is a Linear relationship between the Kp Index and Precipitation
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Kp_Precip.png" alt="How does Kp Index affect precipitation" title="How does Kp index affect precipitation" />
 
 ## F10.7
@@ -59,7 +59,7 @@
 #### H0: There is no Linear relationship between F10.7 and Average Temperature
 #### H1: There is a Linear relationship between F10.7 and Average Temperature
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_F107_Temp.png" alt="How does F10.7 affect temperature" title="How does F10.7 affect temperature" />
 
 
@@ -83,7 +83,7 @@
 #### H0: There is no Linear relationship between F10.7 and Precipitation
 #### H1: There is a Linear relationship between F10.7 and Precipitation
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_F107_Precip.png" alt="How does F10.7 affect precipitation" title="How does F10.7 affect precipitation" />
 
 ## Ap 
@@ -109,7 +109,7 @@
 #### H0: There is no Linear relationship between Ap Index and Average Wind Speed
 #### H1: There is a Linear relationship between Ap Index and Average Wind Speed
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModel_Ap_Wind.png" alt="How does Ap affect wind" title="How does Ap affect wind" />
 
 #### Simple Linear Regression model - How does the Ap index affect Precipitation?
@@ -120,7 +120,7 @@
 #### H0: There is no Linear relationship between Ap Index and Precipitation
 #### H1: There is a Linear relationship between Ap Index and Precipitation
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Ap_Precip.png" alt="How does Ap affect precipitation" title="How does Ap affect precipitation" />
 
 ## Cp
@@ -135,7 +135,7 @@
 #### H0: There is no Linear relationship between Cp Index and Average Temperature
 #### H1: There is a Linear relationship between Cp Index and Average Temperature
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Cp_Temp.png" alt="How does Cp affect temperature" title="How does Cp affect temperature" />
 
 
@@ -147,7 +147,7 @@
 #### H0: There is no Linear relationship between Cp Index and Average Wind Speed
 #### H1: There is a Linear relationship between Cp Index and Average Wind Speed
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Cp_Wind.png" alt="How does Cp affect wind" title="How does Cp affect wind" />
 
 
@@ -159,7 +159,7 @@
 #### H0: There is no Linear relationship between Cp Index and Precipitation
 #### H1: There is a Linear relationship between Cp Index and Precipitation
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Cp_Precip.png" alt="How does Cp affect precipitation" title="How does Cp affect precipitation" />
 
 
@@ -175,7 +175,7 @@
 #### H0: There is no Linear relationship between ISN Index and Average Temperature
 #### H1: There is a Linear relationship between ISN Index and Average Temperature
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_ISN_Temp.png" alt="How does ISN affect temperature" title="How does ISN affect temperature" />
 
 
@@ -199,7 +199,7 @@
 #### H0: There is no Linear relationship between ISN Index and Precipitation
 #### H1: There is a Linear relationship between ISN Index and Precipitation
 
-#### To accept or deny the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
+#### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_ISN_Precip.png" alt="How does ISN affect precipitation" title="How does ISN affect precipitation" />
 
 ## Space Weather Predictions 
