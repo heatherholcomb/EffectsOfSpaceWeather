@@ -25,7 +25,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Kp_Temp.png" alt="How does Kp Index affect temperature" title="How does Kp index affect temperature" />
 
-#### With MSE values at 219.36 and 217.71 are really high and tell me that we wont get a very good line of fit. 
+#### With MSE values at 219.36 and 217.71 which are really high and tell me that we wont get a very good line of fit. 
 #### our p value is = .0541 which is above the .05 threshold so we would accept the null hypothesis and say that There is no Linear relationship between the Kp Index and Average Temperature. 
 
 #### Simple Linear Regression model - How does the Kp index affect Wind Speed? 
@@ -39,7 +39,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Kp_Wind.png" alt="How does Kp Index affect wind" title="How does Kp index affect wind" />
 
-#### With MSE values at 1.50 and 1.39 are really low and tell me that we have a very good line of fit. 
+#### With MSE values at 1.50 and 1.39 which are really low and tell me that we have a very good line of fit. 
 #### our p value is = -0.000348 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the Kp Index and Average Wind Speed. 
 
 #### Simple Linear Regression Model - How does the Kp index affect Precipitation? 
@@ -53,7 +53,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Kp_Precip.png" alt="How does Kp Index affect precipitation" title="How does Kp index affect precipitation" />
 
-#### With MSE values at 4.80 and 3.91 are really low and tell me that we have a very good line of fit. 
+#### With MSE values at 4.80 and 3.91 which are really low and tell me that we have a very good line of fit. 
 #### our p value is = -.004 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the Kp Index and Precipitation. 
 
 ## F10.7
@@ -71,7 +71,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_F107_Temp.png" alt="How does F10.7 affect temperature" title="How does F10.7 affect temperature" />
 
-#### With MSE values at 224.62 and 205.01 are really high and tell me that we wont get a very good line of fit. 
+#### With MSE values at 224.62 and 205.01 which are really high and tell me that we wont get a very good line of fit. 
 #### our p value is = .011 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the F10.7 and Average Temperature. 
 
 #### Simple Linear Regression model - How does F10.7 affect Wind Speed? 
@@ -85,7 +85,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_F107_Wind.png" alt="How does F10.7 affect wind" title="How does F10.7 affect wind" />
 
-#### With MSE values at 1.50 and 1.37 are really low and tell me that we have a very good line of fit. 
+#### With MSE values at 1.50 and 1.37 which are really low and tell me that we have a very good line of fit. 
 #### our p value is = .00052 which is well below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the F10.7 and Average Wind Speed 
 
 #### Simple Linear Regression model - How does F10.7 affect Precipitation?
@@ -99,7 +99,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_F107_Precip.png" alt="How does F10.7 affect precipitation" title="How does F10.7 affect precipitation" />
 
-#### With MSE values at 4.79 and 3.97 are low and tell me that we have a very good line of fit. 
+#### With MSE values at 4.79 and 3.97 which are low and tell me that we have a very good line of fit. 
 #### our p value is = -0.0063 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the F10.7 and Precipitation. 
 
 ## Ap 
@@ -117,7 +117,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Ap_Temp.png" alt="How does Ap affect temperature" title="How does Ap affect temperature" />
 
-#### With MSE values at 223.09 and 201.56 are really high and tell me that we wont get a very good line of fit. 
+#### With MSE values at 223.09 and 201.56 which are really high and tell me that we wont get a very good line of fit. 
 #### our p value is = -0.015 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the Ap Index and Average Temperature. 
 
 #### Simple Linear Regression model - How does the Ap index affect Wind Speed? 
@@ -131,8 +131,8 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Ap_Wind.png" alt="How does Ap affect wind" title="How does Ap affect wind" />
 
-#### With MSE values at 219.36 and 217.71 are really high and tell me that we wont get a very good line of fit. 
-#### our p value is = .0541 which is above the .05 threshold so we would accept the null hypothesis and say that There is no Linear relationship between the Kp Index and Average Temperature. 
+#### With MSE values at 1.47 and 1.38 which are low and tell me that we will get a very good line of fit. 
+#### our p value is = .002 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the Ap Index and Average Wind Speed. 
 
 #### Simple Linear Regression model - How does the Ap index affect Precipitation?
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Ap_Precip.png" alt="How does Ap affect precipitation" title="How does Ap affect precipitation" />
@@ -145,7 +145,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Ap_Precip.png" alt="How does Ap affect precipitation" title="How does Ap affect precipitation" />
 
-#### With MSE values at 5.02 and 3.53 whic are low this tells me that we will get a very good line of fit. 
+#### With MSE values at 5.02 and 3.53 which are low this tells me that we will get a very good line of fit. 
 #### our p value is = -0.007 which is below the .05 threshold so we would reject the null hypothesis and say that There is a Linear relationship between the Ap Index and Precipitation. 
 
 ## Cp
@@ -163,7 +163,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Cp_Temp.png" alt="How does Cp affect temperature" title="How does Cp affect temperature" />
 
-#### With MSE values at 219.76 and 214.48 are really high and tell me that we wont get a very good line of fit. 
+#### With MSE values at 219.76 and 214.48 which are really high and tell me that we wont get a very good line of fit. 
 #### our p value is = .475 which is above the .05 threshold so we would accept the null hypothesis and say that There is no Linear relationship between the Cp Index and Average Temperature. 
 
 
@@ -193,7 +193,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_Cp_Precip.png" alt="How does Cp affect precipitation" title="How does Cp affect precipitation" />
 
-#### With MSE values at 4.79 and 3.98 whic hare low and tells me that we will get a very good line of fit. 
+#### With MSE values at 4.79 and 3.98 which are low and tell me that we will get a very good line of fit. 
 #### our p value is = -0.054 which is slightly above the .05 threshold so we would accept the null hypothesis and say that There is no Linear relationship between the Cp Index and Precipitation. 
 
 
@@ -212,7 +212,7 @@
 #### To accept or reject the null hypothesis, i split the data into test and training sets, fit a linear regression model and looked at the Mean Squared Error as well as the coefficient
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinModelFinal_ISN_Temp.png" alt="How does ISN affect temperature" title="How does ISN affect temperature" />
 
-#### With MSE values at 223.03 and 208.70 are really high and tell me that we wont get a very good line of fit. 
+#### With MSE values at 223.03 and 208.70 which are really high and tell me that we wont get a very good line of fit. 
 #### our p value is = 5.90 which is above the .05 threshold so we would accept the null hypothesis and say that There is no Linear relationship between the ISN and Average Temperature. 
 
 
