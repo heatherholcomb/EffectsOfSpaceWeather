@@ -150,7 +150,7 @@
 
 ## Cp
 ### Description of Cp Index 
-#### 
+#### Cp is defined as the bases for the Ap Index. A qualitative estimate of overall level of magnetic activity for the day determined from the sum of the 8 Ap indices. Cp ranges, in steps of one-tenth, from 0 (quiet) to 2.5 (highly disturbed)
 
 #### Simple Linear Regression model - How does the Cp index affect Temperature? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_Cp_Temp.png" alt="How does Cp affect temperature" title="How does Cp affect temperature" />
@@ -199,7 +199,7 @@
 
 ## ISN - International Sunspot Number
 ### Description of ISN
-####
+#### ISN is a count of sunspots. Records contain the Zurich number through 1980 Dec 31 and the International Brussels number thereafter.
 
 #### Simple Linear Regression model - How does ISN affect Temperature? 
 <img src="https://github.com/heatherholcomb/EffectsOfSpaceWeather/blob/master/Images/LinearRegression_ISN_Temp.png" alt="How does ISN affect temperature" title="How does ISN affect temperature" />
